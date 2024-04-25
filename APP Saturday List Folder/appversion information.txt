@@ -1,0 +1,14 @@
+1]In (appversion-01-04-2023) including 
+main flash sreen +phone no+otp+setup profile+user flash screen on top
+
+2] In (appversion-08-04-2023) including user list + flash screen on top+image placeholder
+
+3]In(appversion-15-04-2023)includeing sending message features ,reaction features (feeling sending and reciving),status update ,smartrecyclerview,updated status feature ,smart layouts. 
+
+4]In (appversion-22-04-2023)including 
+smart profile,Image sending option ,image reaction,validation of textmessage.
+
+5]In  (appversion-29-04-2023)including group chat features ,status updates feature ,delete ,time{Adujusment}.
+
+6]In(appversion-5-05-2023)-
+updating flash screen,updting phone no , and otp activity enable.
